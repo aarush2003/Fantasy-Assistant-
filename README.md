@@ -1,6 +1,6 @@
 # Fantasy-Assistant-
 
-NBA Fantasy assistant created using React. Data was gotten from https://www.balldontlie.io/#introduction. Allows users to input different NBA players (max of 3) and compare 
+NBA Fantasy assistant created using React.js. Data was gotten from https://www.balldontlie.io/#introduction. Allows users to input different NBA players (max of 3) and compare 
 them based on key stats. The stats are displayed both visually and quantitatively. 
 
 To Do: 
