@@ -10,7 +10,7 @@ Add a Trade analyze feature
 Learning Outcomes: 
 
 1. Helped Gain better understanding about React framework.
-2. Gain Experience on interacting with API's nad promises
+2. Gain Experience on interacting with API's and promises
 3. Learned new libraries such as Chart.js
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
